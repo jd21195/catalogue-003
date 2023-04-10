@@ -1,0 +1,5 @@
+pproject:
+  title: "my_project"
+output:
+  baseurl: https://github.com/josefdebase/catalogue-003
+

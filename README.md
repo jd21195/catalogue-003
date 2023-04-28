@@ -37,3 +37,20 @@ The main publishing workflow uses Quarto to render the output of Jupyter Noteboo
 for Quarto to render the output into an output directory, in this case, ./docs. 
 
 GitHub Pages then serves the HTML files in the ./docs directory as a website. 
+
+# Mein Projekt
+
+Willkommen zu meinem Projekt. Hier finden Sie alles, was Sie über das Thema XYZ wissen müssen. 
+
+## Essay
+
+Lesen Sie meinen Essay hier: [Essay](./essay.text)
+
+## Styleguide
+
+Besuchen Sie meinen Styleguide hier: [Styleguide](./styleguide.text)
+
+## Colophon
+
+Hier ist eine Liste der Ressourcen, die ich für dieses Projekt verwendet habe: [Colophon](./colophon.md)
+

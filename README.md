@@ -1,6 +1,6 @@
-## Baroque AI: Publication Prototype
+## Deutsche Museen - By Josef Debase
 
-## Part of the series: Baroque TOC
+## Part of the series: Deutsche Museen
 
 [Programme instructions](https://nfdi4culture.github.io/class-ADA-CP-pipeline/)
 

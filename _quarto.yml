@@ -5,21 +5,23 @@ project:
 # Quarto options for books
 # https://quarto.org/docs/reference/projects/books.html
 book:
-  title: "Baroque AI: Publication Prototype"
+  title: "Pflanzenbelege aus dem Botanischen Garten Berlin"
   author: "Class participants"
-  date: "2023-03-17"
+  date: "2023-04-14"
   # this section determines which files will be added to the book as chapters
   chapters:
     - index.qmd
     - colophon.ipynb
     - collection003.qmd
-    - paintings.ipynb
-    - video.ipynb
-    - sw-collection.ipynb
-  repo-url: https://github.com/NFDI4Culture/catalogue-003
+  # - paintings.ipynb
+    - paintingsmod.ipynb
+  #  - video.ipynb
+  #  - sw-collection.ipynb
+    - html-test.html
+  repo-url: https://jd21195.github.io/jd21195/
   repo-actions: [edit]
-  downloads: [pdf]
-  image: cover.jpg
+  downloads: [pdf,docx,epub]
+  cover-image: cover-smallalt.jpg
 
 # Quarto allows commenting using either Hypothesis or Utterances
 # https://quarto.org/docs/reference/projects/books.html#comments
@@ -33,8 +35,12 @@ format:
     number-sections: false
     # Quarto allows a number of pre-packaged themes for the HTML version
     # You can choose between them using the documentation at https://quarto.org/docs/output-formats/html-themes.html
-    theme: minty
+    theme: darkly
   # options for PDF output 
   # https://quarto.org/docs/reference/formats/pdf.html
   pdf:
     documentclass: book
+  docx: 
+    toc: true
+  epub: 
+    toc: true    

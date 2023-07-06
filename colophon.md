@@ -1,18 +1,23 @@
-Dieses Dokument enthält Informationen über deutsche Museen und wurde mit Hilfe von Quarto, Git und Wikidata-Abfragen erstellt.
+Colophon
 
-Query:
-SELECT ?item ?itemLabel WHERE {
-  ?item wdt:P31 wd:Q33506 .
-  ?item wdt:P17 wd:Q183 .
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
-}
-Autor: Josef Debase
-Herausgeber: Hochschule Hannover
-Verlagsort: Hannover
-Verlag: Name des Verlags]
-Druck: [Name des Druckers]
-Design: Josef Debase
-Schriftart: [Name der Schriftart]
-Papier: Website
-© 2023
-Alle Rechte vorbehalten.
+Fork title: jd21195.github.io/catalogue-003)
+
+Author: Josef Debase
+
+ORCID: https://orcid.org/0009-0000-3344-9566
+
+Date: 06.07
+
+DOI: 10.5281/zenodo.7875479
+
+Repositor: https://github.com/AhmadAroud/catalogue-003](https://jd21195.github.io/catalogue-003)
+
+PUBLISHING FROM COLLECTIONS USES OF COMPUTATIONAL PUBLISHIGN AND LINKEDOPEN DATA
+
+Open Science Lab - TIB Hannnover
+
+First published 2023-03-30
+
+Copyright © The Authors 2023 Licensed as https://creativecommons.org/licenses/by-sa/4.0/
+
+DOI: https://doi.org/10.5281/zenodo.7701161

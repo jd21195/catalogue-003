@@ -10,7 +10,7 @@ Date: 06.07
 
 DOI: 10.5281/zenodo.7875479
 
-Repositor: https://github.com/AhmadAroud/catalogue-003](https://jd21195.github.io/catalogue-003)
+Repositor: https://jd21195.github.io/catalogue-003)
 
 PUBLISHING FROM COLLECTIONS USES OF COMPUTATIONAL PUBLISHIGN AND LINKEDOPEN DATA
 

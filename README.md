@@ -8,7 +8,7 @@ Date: 06.07.23
 
 DOI: 
 
-Repository URL: https://jd21195.github.io/https---github.com-jd21195-catalogue-003/
+Repository URL: https://jd21195.github.io/jd21195/
 
 ## Based on Baroque AI: Publication Prototype
 

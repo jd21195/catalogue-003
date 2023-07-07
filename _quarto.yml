@@ -14,7 +14,7 @@ book:
     - colophon.ipynb
     - collection003.qmd
   # - paintings.ipynb
-    - paintings1.ipynb
+    - painting1.ipynb
   #  - video.ipynb
   #  - sw-collection.ipynb
     - html-test.html

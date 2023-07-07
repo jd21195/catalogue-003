@@ -14,12 +14,12 @@ Nextcloud Markdown document link: https://tib.eu/cloud/s/qBx8SbqiPBBedye
 
 ## Add your name:
 
-* Simon Worthington
+* Josef Debase
 
 ## Text editing
 
-Paste in a section of text based on variation of Baroque painting collections in the state of Bavaria.
-
+Die Botanik ist ein Segment der Biologie, die sich mit der intensiven Wissenschaft der Pflanzen befasst. Dieser Bereich der Biologie ist ein Teil der Naturwissenschaft, die sich intensiv mit allem Leben und allen Lebewesen unserer Erde beschäftigt. Die Pflanzenkunde oder Pflanzenbiologie (Lehre der Botanik) befasst sich in ihrem Inhalt mit allem was die Welt der Pflanzen betrifft. Dazu gehören Wachstum, Fortpflanzung oder Aufbau sowie Inhaltsstoffe, mögliche Krankheiten oder der wirtschaftliche Nutzeffekt für den Menschen. Unter der Berücksichtung dieser Kriterien entsteht eine Einteilung der Pflanzen in Heilmittel, Nahrungsmittel und Rohstoffe.
+Anhand dieser Definition erklärt sich das Berufsfeld des Botanikers. In der Folge ergibt sich, dass die Botanik die Wissenschaft ist und der Botaniker ein Wissenschaftler, der sich diesem überaus interessanten Teilstück der Biologie verschrieben hat.
 <https://openai.com/blog/chatgpt>
 
 <https://www.perplexity.ai/>
